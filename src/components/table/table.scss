@@ -56,3 +56,12 @@
         font-weight: 600;
     }
 }
+
+
+.icons{
+    i{
+        &:hover{
+            transform: scale(1.1);
+        }
+    }
+}
